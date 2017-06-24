@@ -1,0 +1,49 @@
+tags: ἕρμαιον ἕρμαιον-3 version
+
+3.5.1|Πολλὰ ζῷά ἐστι τοῖς ἀνθρώποις φίλα.|<span class="sujet"><span class="adj">Πολλὰ</span> ζῷά</span><sub>[n.pl.]</sub> <span class="verbe">ἐστι</span><sub>[3S]</sub> <span class="COI">τοῖς ἀνθρώποις</span><sub>[COI]</sub> <span class="attribut">φίλα</span><sub>[attr.]</sub>.|De nombreux animaux sont amis des hommes.
+
+3.5.2|Λόγον τὰ ζῷα οὐκ ἔχει.|<span class="COD">Λόγον</span><sub>[COD]</sub> <span class="sujet">τὰ ζῷα</span><sub>[n.pl.]</sub> <span class="verbe adv">οὐκ</span> <span class="verbe">ἔχει</span><sub>[3S]</sub>.|Les animaux n'ont pas la parole.
+
+3.5.3|Τοῖς ἀνθρώποις ἐστὶ καλὸν τῶν θεῶν δῶρον ὕπνος.|<span class="COI">Τοῖς ἀνθρώποις</span><sub>[COI]</sub> <span class="verbe">ἐστὶ</span> <span class="attribut">καλὸν <span class="CDN">τῶν θεῶν</span> δῶρον</span><sub>[attr.]</sub> <span class="sujet">ὕπνος</span>.|Le sommeil est un beau cadeau des dieux aux hommes.
+
+3.5.4|Ὁ κῆπος μεστός ἐστι ῥόδων καὶ ἴων καὶ τερπνός ἐστι τοῖς τέκνοις.|<span class="sujet">Ὁ κῆπος</span> <span class="bloc"><span class="attribut">μεστός<sub>+gén.</sub></span><sub>[attr.]</sub> <span class="verbe">ἐστι</span> <span class="attribut"><span class="régime CDN">ῥόδων καὶ ἴων</span></span></span> καὶ <span class="bloc"><span class="attribut">τερπνός</span><sub>[attr.]</sub> <span class="verbe">ἐστι</span> <span class="COI">τοῖς τέκνοις</span><sub>[COI]</sub></span>.|Le jardin est plein de roses et de violettes et il est agréable pour les enfants.
+
+3.5.5|Δεινὸν φάρμακόν ἐστι τὸ κώνειον.|<span class="attribut"><span class="adj">Δεινὸν</span> φάρμακόν</span><sub>[attr.]</sub> <span class="verbe">ἐστι</span> <span class="sujet">τὸ κώνειον</span>.|La ciguë est un terrible poison.
+
+3.5.6|Τὰ τῶν γεωργῶν ζῷά ἐστιν ἐν τοῖς ἀγροῖς.|<span class="sujet">Τὰ <span class="CDN">τῶν γεωργῶν</span> ζῷά</span><sub>[n.pl.]</sub> <span class="verbe">ἐστιν</span><sub>[3S]</sub> <span class="CCL"><span class="préposition">ἐν</span><sub>+dat.</sub> <span class="régime">τοῖς ἀγροῖς</span></span><sub>[loc.]</sub>.|Les animaux des paysans sont aux champs.
+
+3.5.7|Οὐ ῥᾴδιά ἐστι τὰ τῶν δούλων ἔργα.|<span class="verbe adv">Οὐ</span> <span class="attribut">ῥᾴδιά</span><sub>[attr.]</sub> <span class="verbe">ἐστι</span><sub>[3S]</sub> <span class="sujet">τὰ <span class="CDN">τῶν δούλων</span> ἔργα</span><sub>[n.pl.]</sub>.|Les travaux des esclaves ne sont pas faciles.
+
+3.5.8|Δένδρα πολλά ἐστιν ἐν τῷ πεδίῳ καὶ καρποὺς φέρει.|<span class="sujet">Δένδρα</span><sub>[n.pl.]</sub> <span class="bloc"><span class="attribut">πολλά</span><sub>[attr.]</sub> <span class="verbe">ἐστιν</span><sub>[3S]</sub> <span class="CCL"><span class="préposition">ἐν</span><sub>+dat.</sub> <span class="régime">τῷ πεδίῳ</span></span><sub>[loc.]</sub></span> καὶ <span class="bloc"><span class="COD">καρποὺς</span><sub>[COD]</sub> <span class="verbe">φέρει</span><sub>[3S]</sub></span>.|Les arbres sont nombreux dans la plaine et portent des fruits.
+
+
+
+3.6.1|Τὰ τοῦ γεωργοῦ τέκνα εἰς τὸν ἀγρὸν τρέχει.|<span class="sujet">Τὰ <span class="CDN">τοῦ γεωργοῦ</span> τέκνα</span><sub>[n.pl.]</sub> <span class="CCL"><span class="préposition">εἰς</span><sub>+acc.</sub> <span class="régime">τὸν ἀγρὸν</span></span><sub>[dest.]</sub> <span class="verbe">τρέχει</span><sub>[3S]</sub>.|Les enfants du paysan courent vers le champ.
+
+3.6.2|Ὕπνος τοῖς ἀνθρώποις φίλος.|<span class="sujet">Ὕπνος</span> <span class="COI">τοῖς ἀνθρώποις</span><sub>[COI]</sub> <span class="attribut">φίλος</span><sub>[attr.]</sub>.|Le sommeil est un ami pour les hommes.
+
+3.6.3|Τὰ ζῷα τοῖς θεοῖς οὐ θύει.|<span class="sujet">Τὰ ζῷα</span><sub>[n.pl.]</sub> <span class="COI">τοῖς θεοῖς</span><sub>[COI]</sub> <span class="verbe adv">οὐ</span> <span class="verbe">θύει</span><sub>[3S]</sub>.|Les animaux ne font pas de sacrifices aux dieux.
+
+3.6.4|Πολλὰ ζῷα ἐν τοῖς ἀγροῖς τρέχει.|<span class="sujet"><span class="adj">Πολλὰ</span> ζῷα</span><sub>[n.pl.]</sub> <span class="CCL"><span class="préposition">ἐν</span><sub>+dat.</sub> <span class="régime">τοῖς ἀγροῖς</span></span><sub>[loc.]</sub> <span class="verbe">τρέχει</span><sub>[3S]</sub>.|Beaucoup d'animaux courent dans les champs.
+
+3.6.5|Πολλὰ φάρμακα κακά ἐστιν.|<span class="sujet"><span class="adj">Πολλὰ</span> φάρμακα</span><sub>[n.pl.]</sub> <span class="attribut">κακά</span><sub>[attr.]</sub> <span class="verbe">ἐστιν</span><sub>[3S]</sub>.|Beaucoup de remèdes sont mauvais.
+
+3.6.6|Ἀγαθὸν φάρμακον ὕπνος.|<span class="attribut"><span class="adj">Ἀγαθὸν</span> φάρμακον</span><sub>[attr.]</sub> <span class="sujet">ὕπνος</span>.|Le sommeil est un bon remède.
+
+3.6.7|Μικρὰ ζῷα τοὺς τῶν δένδρων καρποὺς τρώγει.|<span class="sujet"><span class="adj">Μικρὰ</span> ζῷα</span><sub>[n.pl.]</sub> <span class="COD">τοὺς <span class="CDN">τῶν δένδρων</span> καρποὺς</span><sub>[COD]</sub> <span class="verbe">τρώγει</span><sub>[3S]</sub>.|De petits animaux rongent les fruits des arbres.
+
+3.6.8|Πολλὰ ἴα ἐστιν ἐν τῷ ἀγρῷ.|<span class="sujet"><span class="adj">Πολλὰ</span> ἴα</span><sub>[n.pl.]</sub> <span class="verbe">ἐστιν</span><sub>[3S]</sub> <span class="CCL"><span class="préposition">ἐν</span><sub>+dat.</sub> <span class="régime">τῷ ἀγρῷ</span></span><sub>[loc.]</sub>.|Il y a beaucoup de violettes dans le champ. (litt. “Les violettes sont nombreuses dans le champ.”)
+
+3.6.9|Οἱ ἄνεμοι τὰ τῶν δένδρων φύλλα σείουσιν.|<span class="sujet">Οἱ ἄνεμοι</span> <span class="COD">τὰ <span class="CDN">τῶν δένδρων</span> φύλλα</span><sub>[COD]</sub> <span class="verbe">σείουσιν</span>.|Les vents secouent les feuilles des arbres.
+
+3.6.10|Φυτὰ πολλὰ δεινά ἐστι φάρμακα.|<span class="sujet">Φυτὰ <span class="adj">πολλὰ</span></span><sub>[n.pl.]</sub> <span class="attribut adj">δεινά</span> <span class="verbe">ἐστι</span><sub>[3S]</sub> <span class="attribut">φάρμακα</span><sub>[attr.]</sub>.|Beaucoup de plantes sont de terribles poisons.
+
+
+
+Γνῶμαι μονόστιχοι, 46 – Μένανδρος|Ἆρ᾽ ἐστὶ θυμοῦ φάρμακον χρηστὸς λόγος.|Ἆρ᾽ <span class="verbe">ἐστὶ</span> <span class="attribut"><span class="CDN">θυμοῦ</span> φάρμακον</span><sub>[attr.]</sub> <span class="sujet"><span class="adj">χρηστὸς</span> λόγος</span>.|Une parole bienveillante est assurément un réconfort pour le cœur.
+
+Γνῶμαι μονόστιχοι, 780 – Μένανδρος|Ὕπνος δεινὸν ἀνθρώποις κακόν.|<span class="sujet">Ὕπνος</span> <span class="attribut adj">δεινὸν</span> <span class="COI">ἀνθρώποις</span><sub>[COI]</sub> <span class="attribut">κακόν</span><sub>[attr.]</sub>.|Le sommeil est un terrible fléau pour les hommes.
+
+Γνῶμαι μονόστιχοι, 621 – Μένανδρος|Ὅπλον μέγιστον τοῖς ἀνθρώποις λόγος.|<span class="attribut">Ὅπλον <span class="adj">μέγιστον</span></span><sub>[attr.]</sub> <span class="COI">τοῖς ἀνθρώποις</span><sub>[COI]</sub> <span class="sujet">λόγος</span>.|La parole est une arme puissante pour les hommes.
+
+Γνῶμαι μονόστιχοι, ? – Μένανδρος|Κοινὰ τὰ τῶν φίλων.|<span class="attribut">Κοινὰ</span><sub>[attr.]</sub> <span class="sujet">τὰ <span class="CDN">τῶν φίλων</span></span>.|Les amis ont tout en commun.
