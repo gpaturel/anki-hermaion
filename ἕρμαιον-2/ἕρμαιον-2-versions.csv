@@ -1,0 +1,85 @@
+tags: ἕρμαιον ἕρμαιον-2 version
+
+2.1.1|Ὁ ἵππος τὸν ταῦρον βλέπει.|<span class="sujet">Ὁ ἵππος</span> <span class="COD">τὸν ταῦρον</span><sub>[COD]</sub> <span class="verbe">βλέπει</span>.|Le cheval regarde le taureau.
+
+2.1.2|Τὸν ἵππον ὁ ταῦρος βλέπει.|<span class="COD">Τὸν ἵππον</span><sub>[COD]</sub> <span class="sujet">ὁ ταῦρος</span> <span class="verbe">βλέπει</span>.|Le taureau regarde le cheval.
+
+2.1.3|Οἱ ἵπποι βλέπουσι τοὺς ταύρους.|<span class="sujet">Οἱ ἵπποι</span> <span class="verbe">βλέπουσι</span> <span class="COD">τοὺς ταύρους</span><sub>[COD]</sub>.|Les chevaux regardent les taureaux.
+
+2.1.4|Βλέπουσι τοὺς ἵππους οἱ ταῦροι.|<span class="verbe">Βλέπουσι</span> <span class="COD">τοὺς ἵππους</span><sub>[COD]</sub> <span class="sujet">οἱ ταῦροι</span>.|Les taureaux regardent les chevaux.
+
+2.1.5|Τὸν πτωχὸν ὁ δοῦλος βλέπει.|<span class="COD">Τὸν πτωχὸν</span><sub>[COD]</sub> <span class="sujet">ὁ δοῦλος</span> <span class="verbe">βλέπει</span>.|L'esclave regarde le mendiant.
+
+2.1.6|Ὁ πτωχὸς τὸν δοῦλον βλέπει.|<span class="sujet">Ὁ πτωχὸς</span> <span class="COD">τὸν δοῦλον</span><sub>[COD]</sub> <span class="verbe">βλέπει</span>.|Le mendiant regarde l'esclave.
+
+2.1.7|Οἱ δοῦλοι βλέπουσι τοὺς πτωχούς.|<span class="sujet">Οἱ δοῦλοι</span> <span class="verbe">βλέπουσι</span> <span class="COD">τοὺς πτωχούς</span><sub>[COD]</sub>.|Les esclaves regardent les mendiants.
+
+2.1.8|Οἱ πτωχοὶ βλέπουσι τοὺς δούλους.|<span class="sujet">Οἱ πτωχοὶ</span> <span class="verbe">βλέπουσι</span> <span class="COD">τοὺς δούλους</span><sub>[COD]</sub>.|Les mendiants regardent les esclaves.
+
+2.1.9|Ὁ τύραννος ψέγει τὸν φιλόσοφον.|<span class="sujet">Ὁ τύραννος</span> <span class="verbe">ψέγει</span> <span class="COD">τὸν φιλόσοφον</span><sub>[COD]</sub>.|Le dictateur critique le philosophe.
+
+2.1.10|Τὸν τύραννον ψέγει ὁ φιλόσοφος.|<span class="COD">Τὸν τύραννον</span><sub>[COD]</sub> <span class="verbe">ψέγει</span> <span class="sujet">ὁ φιλόσοφος</span>.|Le philosophe critique le dictateur.
+
+2.1.11|Οἱ τύραννοι ψέγουσι τοὺς φιλοσόφους.|<span class="sujet">Οἱ τύραννοι</span> <span class="verbe">ψέγουσι</span> <span class="COD">τοὺς φιλοσόφους</span><sub>[COD]</sub>.|Les dictateurs critiquent les philosophes.
+
+2.1.12|Ψέγουσι τοὺς τυράννους οἱ φιλόσοφοι.|<span class="verbe">Ψέγουσι</span> <span class="COD">τοὺς τυράννους</span><sub>[COD]</sub> <span class="sujet">οἱ φιλόσοφοι</span>.|Les philosophes critiquent les dictateurs.
+
+
+
+2.5.1|Ποῦ ἐστιν ὁ γεωργός&nbsp;; &ndash;&nbsp;Ἐν τῷ ἀγρῷ ἐστιν.|<span class="verbe adv">Ποῦ</span> <span class="verbe">ἐστιν</span> <span class="sujet">ὁ γεωργός</span>&nbsp;; &ndash;&nbsp;<span class="CCL"><span class="préposition">Ἐν</span><sub>+dat.</sub> <span class="régime">τῷ ἀγρῷ</span></span><sub>[loc.]</sub> <span class="verbe">ἐστιν</span>.|Où est le paysan&nbsp;? &ndash;&nbsp;Il est dans le champ.
+
+2.5.2|Οἱ τοῦ Ἀριστάρχου ἀγροί εἰσι πολλοί.|<span class="sujet">Οἱ <span class="CDN">τοῦ Ἀριστάρχου</span> ἀγροί</span> <span class="verbe">εἰσι</span> <span class="attribut">πολλοί</span><sub>[attr.]</sub>.|Aristarque possède beaucoup de champs. (litt. “Les champs d'Aristarque sont nombreux.”)
+
+2.5.3|Πολλοὺς ἵππους ἔχω.|<span class="COD">Πολλοὺς ἵππους</span><sub>[COD]</sub> <span class="verbe">ἔχω</span>.|J'ai beaucoup de chevaux.
+
+2.5.4|Τοῖς θεοῖς οἱ ἄνθρωποι θύουσιν.|<span class="COI">Τοῖς θεοῖς</span><sub>[COI]</sub> <span class="sujet">οἱ ἄνθρωποι</span> <span class="verbe">θύουσιν</span>.|Les hommes sacrifient aux dieux.
+
+2.5.5|Οἱ ἐμοὶ ἀγροὶ πολλοὺς καὶ καλοὺς φέρουσι καρπούς.|<span class="sujet">Οἱ <span class="adj">ἐμοὶ</span> ἀγροὶ</span> <span class="COD adj">πολλοὺς καὶ καλοὺς</span> <span class="verbe">φέρουσι</span> <span class="COD">καρπούς</span><sub>[COD]</sub>.|Mes champs donnent beaucoup de beaux fruits.
+
+2.5.6|Κακοὺς φέρουσι καρποὺς οἱ κακοὶ ἀγροί.|<span class="COD adj">Κακοὺς</span> <span class="verbe">φέρουσι</span> <span class="COD">καρποὺς</span><sub>[COD]</sub> <span class="sujet">οἱ <span class="adj">κακοὶ</span> ἀγροί</span>.|Les mauvais champs produisent de mauvais fruits.
+
+2.5.7|Πολλοὺς φίλους ὁ Ἀρίσταρχος ἔχει, καὶ φίλος εἰμὶ τῷ Ἀριστάρχῳ.|<span class="bloc"><span class="COD"><span class="adj">Πολλοὺς</span> φίλους</span><sub>[COD]</sub> <span class="sujet">ὁ Ἀρίσταρχος</span> <span class="verbe">ἔχει</span></span>, καὶ <span class="bloc"><span class="attribut">φίλος</span><sub>[attr.]</sub> <span class="verbe">εἰμὶ</span> <span class="COI">τῷ Ἀριστάρχῳ</span><sub>[COI]</sub></span>.|Aristarque a de nombreux amis et je suis un ami pour Aristarque.
+
+2.5.8|Ἥλιος ἐν τῷ οὐρανῷ λάμπει.|<span class="sujet">Ἥλιος</span> <span class="CCL"><span class="préposition">ἐν</span><sub>+dat.</sub> <span class="régime">τῷ οὐρανῷ</span></span><sub>[loc.]</sub> <span class="verbe">λάμπει</span>.|Le soleil brille dans le ciel.
+
+2.5.9|Λίθοι εἰσὶ πολλοὶ ἐν τοῖς ἀγροῖς.|<span class="sujet">Λίθοι</span> <span class="verbe">εἰσὶ</span> <span class="attribut">πολλοὶ</span><sub>[attr.]</sub> <span class="CCL"><span class="préposition">ἐν</span><sub>+dat.</sub> <span class="régime">τοῖς ἀγροῖς</span></span><sub>[loc.]</sub>.|Il y a beaucoup de pierres dans les champs. (litt. “Les pierres sont nombreuses dans les champs.”)
+
+2.5.10|Οἱ ἵπποι εἰσὶ τοῖς ἀνθρώποις χρήσιμοι.|<span class="sujet">Οἱ ἵπποι</span> <span class="verbe">εἰσὶ</span> <span class="COI">τοῖς ἀνθρώποις</span><sub>[COI]</sub> <span class="attribut">χρήσιμοι</span><sub>[attr.]</sub>.|Les chevaux sont utiles aux hommes.
+
+2.5.11|Οἱ γεωργοὶ τοῖς τῶν ἀγρῶν θεοῖς θύουσιν.|<span class="sujet">Οἱ γεωργοὶ</span> <span class="COI">τοῖς <span class="CDN">τῶν ἀγρῶν</span> θεοῖς</span><sub>[COI]</sub> <span class="verbe">θύουσιν</span>.|Les paysans sacrifient aux dieux des champs.
+
+2.5.12|Τοὺς φίλους στέργω καὶ τοὺς τῶν φίλων φίλους.|<span class="COD">Τοὺς φίλους</span><sub>[COD]</sub> <span class="verbe">στέργω</span> <span class="COD">καὶ τοὺς <span class="CDN">τῶν φίλων</span> φίλους</span>.|J'aime mes amis et les amis de mes amis.
+
+2.5.13|Καρποὺς φέρουσιν οἱ δοῦλοι τοῖς τοῦ γεωργοῦ φίλοις.|<span class="COD">Καρποὺς</span><sub>[COD]</sub> <span class="verbe">φέρουσιν</span> <span class="sujet">οἱ δοῦλοι</span> <span class="COI">τοῖς <span class="CDN">τοῦ γεωργοῦ</span> φίλοις</span><sub>[COI]</sub>.|Les esclaves apportent des fruits aux amis du paysan.
+
+2.5.14|Εἰς τὸν ἀγρὸν ἄγω τοὺς ἵππους.|<span class="CCL"><span class="préposition">Εἰς</span><sub>+acc.</sub> <span class="régime">τὸν ἀγρὸν</span></span><sub>[dest.]</sub> <span class="verbe">ἄγω</span> <span class="COD">τοὺς ἵππους</span><sub>[COD]</sub>.|Je conduis les chevaux vers le champ.
+
+
+
+2.6.1|Οἱ τοῦ ἀγγέλου λόγοι σοφοί εἰσι καὶ τοὺς Ἀθηναίους πείθουσιν.|<span class="sujet">Οἱ <span class="CDN">τοῦ ἀγγέλου</span> λόγοι</span> <span class="bloc"><span class="attribut">σοφοί</span><sub>[attr.]</sub> <span class="verbe">εἰσι</span></span> καὶ <span class="bloc"><span class="COD">τοὺς Ἀθηναίους</span><sub>[COD]</sub> <span class="verbe">πείθουσιν</span></span>.|Les paroles du messager sont sages et persuadent les Athéniens.
+
+2.6.2|Ὦ Ἀθηναῖοι, δεινοί εἰσιν οἱ τοῦ πολέμου κίνδυνοι.|Ὦ Ἀθηναῖοι, <span class="attribut">δεινοί</span><sub>[attr.]</sub> <span class="verbe">εἰσιν</span> <span class="sujet">οἱ <span class="CDN">τοῦ πολέμου</span> κίνδυνοι</span>.|Ô Athéniens, terribles sont les dangers de la guerre.
+
+2.6.3|Ὕπνος ἀδελφός ἐστι θανάτου.|<span class="sujet">Ὕπνος</span> <span class="attribut">ἀδελφός</span><sub>[attr.]</sub> <span class="verbe">ἐστι</span> <span class="sujet"><span class="CDN">θανάτου</span></span>.|Le sommeil est le frère de la mort.
+
+2.6.4|Χρυσός ἐστιν ἐν τῷ Πακτωλῷ.|<span class="sujet">Χρυσός</span> <span class="verbe">ἐστιν</span> <span class="CCL"><span class="préposition">ἐν</span><sub>+dat.</sub> <span class="régime">τῷ Πακτωλῷ</span></span><sub>[loc.]</sub>.|Il y a de l'or dans le Pactole. (litt. “De l'or est dans le Pactole.”)
+
+2.6.5|Ἄνθρωπος ἐν τῷ κήπῳ ᾄδει.|<span class="sujet">Ἄνθρωπος</span> <span class="CCL"><span class="préposition">ἐν</span><sub>+dat.</sub> <span class="régime">τῷ κήπῳ</span></span><sub>[loc.]</sub> <span class="verbe">ᾄδει</span>.|Un homme chante dans le jardin.
+
+2.6.6|Χαλεπός, ὦ θεοί, ἐστιν ὁ τῶν ἀνθρώπων βίος.|<span class="attribut">Χαλεπός</span><sub>[attr.]</sub>, ὦ θεοί, <span class="verbe">ἐστιν</span> <span class="sujet">ὁ <span class="CDN">τῶν ἀνθρώπων</span> βίος</span>.|Pénible, ô dieux, est la vie des hommes.
+
+2.6.7|Ποῖ ὁ γεωργὸς σπεύδει&nbsp;; &ndash;&nbsp;εἰς τὸν ποταμὸν σπεύδει.|<span class="verbe adv">Ποῖ</span> <span class="sujet">ὁ γεωργὸς</span> <span class="verbe">σπεύδει</span>&nbsp;; &ndash;&nbsp;<span class="CCL"><span class="préposition">εἰς</span><sub>+acc.</sub> <span class="régime">τὸν ποταμὸν</span></span><sub>[dest.]</sub> <span class="verbe">σπεύδει</span>.|Où le paysan se hâte-il&nbsp;? &ndash;&nbsp;Il se hâte vers le fleuve.
+
+2.6.8|Σύμμαχοι πολλοί εἰσι τοῖς Ἀθηναίοις.|<span class="sujet">Σύμμαχοι</span> <span class="attribut">πολλοί</span><sub>[attr.]</sub> <span class="verbe">εἰσι</span> <span class="COI">τοῖς Ἀθηναίοις</span><sub>[COI]</sub>.|Les Athéniens ont de nombreux alliés. (litt. “Les alliés sont nombreux pour les Athéniens.”)
+
+2.6.9|Νόμοι δίκαιοί εἰσι τῷ τῶν Ἀθηναίων δήμῳ.|<span class="sujet">Νόμοι</span> <span class="attribut">δίκαιοί</span><sub>[attr.]</sub> <span class="verbe">εἰσι</span> <span class="COI">τῷ <span class="CDN">τῶν Ἀθηναίων</span> δήμῳ</span><sub>[COI]</sub>.|Le peuple d'Athènes a des lois justes. (litt. “Les lois sont justes pour le peuple des athéniens.”).
+
+2.6.10|Ἀθηναῖός εἰμι καὶ τοῖς τῶν Ἀθηναίων θεοῖς θύω.|<span class="bloc"><span class="attribut">Ἀθηναῖός</span><sub>[attr.]</sub> <span class="verbe">εἰμι</span></span> καὶ <span class="bloc"><span class="COI">τοῖς <span class="CDN">τῶν Ἀθηναίων</span> θεοῖς</span><sub>[COI]</sub> <span class="verbe">θύω</span></span>.|Je suis Athénien et je sacrifie aux dieux des Athéniens.
+
+
+
+Γνῶμαι μονόστιχοι, 412 – Μένανδρος|Κακὸν φέρουσι καρπὸν οἱ κακοὶ φίλοι.|<span class="COD adj">Κακὸν</span> <span class="verbe">φέρουσι</span> <span class="COD">καρπὸν</span><sub>[COD]</sub> <span class="sujet">οἱ <span class="adj">κακοὶ</span> φίλοι</span>.|Les mauvais amis nous font récolter de mauvais fruits.
+
+Γνῶμαι μονόστιχοι, 402 – Μένανδρος|Καλὸν φέρουσι καρπὸν οἱ σεμνοὶ τρόποι.|<span class="COD adj">Καλὸν</span> <span class="verbe">φέρουσι</span> <span class="COD">καρπὸν</span><sub>[COD]</sub> <span class="sujet">οἱ <span class="adj">σεμνοὶ</span> τρόποι</span>.|Les comportements sérieux nous font récolter de bons fruits.
+
+Γνῶμαι μονόστιχοι, 385 – Μένανδρος|Κρίνει φίλους ὁ καιρός<sub style="vertical-align: baseline">, ὡς χρυσὸν τὸ πῦρ</sub>.|<span class="verbe">Κρίνει</span> <span class="COD">φίλους</span><sub>[COD]</sub> <span class="sujet">ὁ καιρός</span>.|On jauge les amis dans les moments cruciaux.
