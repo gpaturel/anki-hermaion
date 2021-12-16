@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        .card {
+            font-family: "GFS Didot";
+            font-size: 32px;
+            text-align: center;
+            color: black;
+            background-color: white;
+        }
+
+        .fr {
+            font-size: 17px;
+        }
+
+        .désinence {
+            font-weight: bold;
+            color: darkred;
+        }
+
+        .note {
+            font-size: 15px;
+        }
+
+        @font-face {
+            font-family: "GFS Didot";
+            src: url('_GFS-Didot.ttf');
+        }
+
+        table {
+            width: 100%;
+        }
+
+        td.article {
+            text-align: right;
+            vertical-align: top;
+            padding-right: 5px;
+            width: 25%;
+        }
+
+        td.nom {
+            text-align: left;
+            vertical-align: top;
+            padding-left: 5px;
+        }
+
+        tr:nth-of-type(even) {
+            background-color: beige;
+        }
+    </style>
+</head>
+
+<body class="card">
+    <div style="line-height: .9">
+        <span class="fr">Décliner</span> {{grec}} <span class="fr">({{français}})</span>
+    </div>
+    <hr />
+    <table>
+        <tr>
+            <td class="article">ὁ/ἡ/τὸ</td>
+            <td class="nom">{{NS}}</td>
+        </tr>
+        <tr>
+            <td />
+            <td class="nom">{{VS}}</td>
+        </tr>
+        <tr>
+            <td class="article">τὸν/τὴν/τὸ</td>
+            <td class="nom">{{AS}}</td>
+        </tr>
+        <tr>
+            <td class="article">τοῦ/τῆς</td>
+            <td class="nom">{{GS}}</td>
+        </tr>
+        <tr>
+            <td class="article">τῷ/τῇ</td>
+            <td class="nom">{{DS}}</td>
+        </tr>
+    </table>
+    <hr />
+    <table>
+        <tr>
+            <td class="article">οἱ/αἱ/τὰ</td>
+            <td class="nom">{{NP}}</td>
+        </tr>
+        <tr>
+            <td />
+            <td class="nom">{{VP}}</td>
+        </tr>
+        <tr>
+            <td class="article">τοὺς/τὰς/τὰ</td>
+            <td class="nom">{{AP}}</td>
+        </tr>
+        <tr>
+            <td class="article">τῶν</td>
+            <td class="nom">{{GP}}</td>
+        </tr>
+        <tr>
+            <td class="article">τοῖς/ταῖς</td>
+            <td class="nom">{{DP}}</td>
+        </tr>
+    </table>
+</body>
+
+</html>
