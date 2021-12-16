@@ -1,0 +1,4 @@
+# https://git-scm.com/docs/git-update-index
+# git update-index --skip-worktree templates/*
+# git update-index --no-skip-worktree templates/*
+templates/*

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        :root {
+            --cod: darkred;
+            --coi: darkslateblue;
+            --ccl: darkgreen;
+            --cct: darkblue;
+            --adv: darkorange;
+        }
+
+        .card {
+            font-family: "GFS Didot";
+            font-size: 22px;
+            text-align: left;
+            color: black;
+            background-color: white;
+            line-height: 1.1;
+        }
+
+        .fr {
+            font-size: 80%;
+            font-style: italic;
+        }
+
+        @font-face {
+            font-family: "GFS Didot";
+            src: url('_GFS-Didot.ttf');
+        }
+
+        .bloc,
+        .sujet,
+        .attribut,
+        .prop-infinitive {
+            border-left: solid;
+            border-right: solid;
+            border-color: black;
+            border-radius: 3pt;
+            border-width: 2px;
+            padding-left: 5px;
+            padding-right: 5px;
+            padding-bottom: 1px;
+            padding-top: 1px;
+        }
+
+        .prop-infinitive {
+            opacity: 0.6;
+            border-color: currentColor;
+            border-bottom: solid;
+            border-left-width: 3px;
+            border-right-width: 3px;
+            border-bottom-width: 1px;
+        }
+
+        .sujet,
+        .attribut {
+            font-weight: bold;
+            border: solid;
+            border-width: 2px;
+            border-color: grey;
+            background-color: beige;
+        }
+
+        .attribut {
+            font-weight: normal;
+            border-width: 1px;
+        }
+
+        .verbe {
+            font-weight: bold;
+            border-bottom: solid;
+            border-width: 3px;
+        }
+
+        .COD {
+            font-style: italic;
+            color: var(--cod);
+        }
+
+        .COI {
+            font-style: italic;
+            color: var(--coi);
+        }
+
+        .CCL {
+            font-style: italic;
+            color: var(--ccl);
+        }
+
+        .CCT {
+            font-style: italic;
+            color: var(--cct);
+        }
+
+        .CDN,
+        .adj,
+        .adv {
+            font-size: small;
+        }
+
+        .adv {
+            color: var(--adv);
+        }
+
+        .COD .adv {
+            color: color-mix(in srgb, var(--cod) 50%, var(--adv) 50%);
+        }
+
+        .COI .adv {
+            color: color-mix(in srgb, var(--coi) 50%, var(--adv) 50%);
+        }
+
+        .CCL .adv {
+            color: color-mix(in srgb, var(--ccl) 50%, var(--adv) 50%);
+        }
+
+        .CCT .adv {
+            color: color-mix(in srgb, var(--cct) 50%, var(--adv) 50%);
+        }
+
+        .préposition {
+            text-decoration-thickness: 1px;
+        }
+
+        .régime {
+            text-decoration: underline wavy;
+            text-decoration-thickness: 1px;
+        }
+
+        sub {
+            padding-left: 0.4em;
+            font-size: 50%;
+            color: grey;
+        }
+
+        sup {
+            padding-right: 0.4em;
+            font-size: 50%;
+            opacity: 0.6;
+        }
+    </style>
+</head>
+
+<body class="card">
+    {{grec (brut)}} <span style="font-size: 40%">[{{id}}]</span>
+    <hr />
+    <span style="font-size: 80%; line-height: 170%">
+        {{grec (analyse)}}
+    </span>
+    <hr />
+    <span class="fr">
+        {{français}}
+    </span>
+</body>
+
+</html>

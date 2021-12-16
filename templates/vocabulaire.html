@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        :root {
+            --désinence: darkred;
+            --régime: beige;
+            --gr: darkblue;
+        }
+
+        .card {
+            font-family: "GFS Didot";
+            font-size: 35px;
+            text-align: center;
+            color: black;
+            background-color: white;
+            line-height: 1.1;
+        }
+
+        .fra {
+            font-size: 22px;
+        }
+
+        .quantité {
+            font-size: 50%;
+            color: brown;
+        }
+
+        .cas {
+            font-variant: small-caps;
+            font-size: smaller;
+            background-color: var(--régime);
+        }
+
+        .régime {
+            background-color: var(--régime);
+        }
+
+        .indo-europ {
+            background-color: aliceblue;
+        }
+
+        .contraction {
+            font-size: 70%;
+        }
+
+        .désinence {
+            font-weight: bold;
+            color: var(--désinence);
+        }
+
+        .cartouche {
+            border: solid;
+            border-color: grey;
+            border-radius: 3pt;
+            border-width: 1px;
+        }
+
+        table {
+            width: 100%;
+        }
+
+        table.décl {
+            font-size: 70%;
+            color: var(--gr);
+        }
+
+        td {
+            font-weight: normal;
+            text-align: left;
+            vertical-align: top;
+            padding-right: 10px;
+        }
+
+        tr.adj {
+            background-color: var(--régime);
+        }
+
+        @font-face {
+            font-family: "GFS Didot";
+            src: url('_GFS-Didot.ttf');
+        }
+
+        ul {
+            font-size: 70%;
+            text-align: left;
+            padding-left: 15px;
+        }
+
+        li {
+            padding-top: 10px;
+        }
+
+        li.propre {
+            color: darkgreen;
+        }
+
+        li.propre .fr {
+            color: darkgreen;
+        }
+
+        li .gr {
+            color: var(--gr);
+        }
+
+        li .fr {
+            font-style: italic;
+            color: grey;
+            font-size: 90%;
+        }
+
+        li.étym {
+            color: var(--désinence);
+            list-style: square;
+        }
+
+        li.étym .fr {
+            color: var(--désinence);
+        }
+
+        li .lat {
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body class="card">
+    {{grec}}
+    <hr />
+    <span class="fra">
+        {{français}}
+        <ul>{{notes}}</ul>
+    </span>
+</body>
+
+</html>
