@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        :root {
+            --ending-color: darkred;
+        }
+
+        .card {
+            font-family: "GFS Didot";
+            font-size: 35px;
+            text-align: center;
+            color: black;
+            background-color: white;
+            line-height: 1.1;
+        }
+
+        .fr {
+            font-size: 22px;
+        }
+
+        .quantité {
+            font-size: 50%;
+            color: brown;
+        }
+
+        .cas {
+            font-variant: small-caps;
+            font-size: smaller;
+            background-color: beige;
+        }
+
+        .indo-europ {
+            background-color: aliceblue;
+        }
+
+        .contraction {
+            font-size: 70%;
+        }
+
+        .désinence {
+            font-weight: bold;
+            color: var(--ending-color);
+        }
+
+        .cartouche {
+            border: solid;
+            border-color: grey;
+            border-radius: 3pt;
+            border-width: 1px;
+        }
+
+        table {
+            width: 100%;
+        }
+
+        td {
+            font-weight: normal;
+            text-align: left;
+            vertical-align: top;
+            padding-right: 10px;
+        }
+
+        @font-face {
+            font-family: "GFS Didot";
+            src: url('_GFS-Didot.ttf');
+        }
+
+        ul {
+            font-size: 70%;
+            text-align: left;
+            padding-left: 15px;
+        }
+
+        li {
+            padding-top: 10px;
+        }
+
+        li.propre {
+            color: darkgreen;
+        }
+
+        li.étym {
+            color: var(--ending-color);
+        }
+    </style>
+</head>
+
+<body class="card">
+    {{grec}}
+    <hr />
+    <span class="fr">
+        {{français}}
+        <ul>{{notes}}</ul>
+    </span>
+</body>
+
+</html>
